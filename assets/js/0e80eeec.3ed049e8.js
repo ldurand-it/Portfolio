@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[1274],{8468:(e,t,s)=>{s.r(t),s.d(t,{default:()=>i});s(7294);var n=s(6040),u=s(5893);function i(){return(0,u.jsx)(n.Z,{title:"Projets",description:"Tous mes projets",children:(0,u.jsx)("div",{})})}}}]);
